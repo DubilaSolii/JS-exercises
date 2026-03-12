@@ -1,0 +1,16 @@
+body{
+    margin: auto;
+    padding: auto;
+text-align:  center;
+}
+input{
+    padding: 20px;
+    background-color: beige;
+    margin: 10px;
+    border-radius: 10px;
+}
+h4{
+    background-color: aquamarine;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

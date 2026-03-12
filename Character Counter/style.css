@@ -1,0 +1,17 @@
+body{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+#text{
+    padding: 20px;
+    background-color: rgb(228, 218, 205);
+    color: black;
+    font-size: 20px;
+    font-family: cursive;
+    border-radius: 20px;
+}
+.char{
+    color: rgb(56, 56, 1);
+    padding: 10px;
+}

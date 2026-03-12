@@ -1,0 +1,20 @@
+body{
+   text-align: center;
+    margin:auto;
+    padding: auto;
+    background-color: bisque;
+}
+#numbers{
+    padding: 20px;
+    border-radius: 10px;
+    color: black;
+    background-color: beige;
+}
+button{
+    background-color: blueviolet;
+    padding: 20px;
+}
+#results{
+    background-color: rgba(137, 43, 226, 0.596);
+    border-radius: 10px;
+}

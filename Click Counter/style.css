@@ -1,0 +1,18 @@
+body{
+     margin: 20px;
+     text-align: center;
+}
+.incre-button{
+    font-size: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 5px;
+    background-color: blanchedalmond;
+    color: black;
+    border-radius: 20px;
+}
+.count{
+    border-radius: 20px;
+    padding: 5px;
+    background-color: aquamarine;
+    text-align: center;
+}
