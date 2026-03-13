@@ -10,6 +10,6 @@ function multiplier(){
     for(let i=0; i<b;i++){
         answer+= a;
     }
-   let result=document.getElementById('results');
-   result.innerText= answer;
+   let result=document.getElementById('result');
+   result.innerText=answer;
 }
